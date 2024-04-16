@@ -1,8 +1,8 @@
 # Ignore the contents of the images and labels in the data directories, and ignore the models directory.
-data/train/images/*
-data/train/labels/*
-data/val/images/*
-data/val/labels/*
+data/d1000_debris_only_dataset_1/train/images/*
+data/d1000_debris_only_dataset_1/train/labels/*
+data/d1000_debris_only_dataset_1/val/images/*
+data/d1000_debris_only_dataset_1/val/labels/*
 models/
 runs/
 
